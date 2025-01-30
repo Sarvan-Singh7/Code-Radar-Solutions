@@ -2,7 +2,6 @@
 int main(){
     float n;
     scanf("%f",&n);
-    float org=n;
-    printf("You entered: %f",org);
+    printf("You entered: %f\n",n);
     return 0;
 }
