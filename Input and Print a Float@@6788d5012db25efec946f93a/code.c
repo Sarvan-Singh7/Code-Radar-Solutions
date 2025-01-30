@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
     float n;
-    scanf("%d",&n);
+    scanf("%f",&n);
     float org=n;
-    printf("You entered: %d",org);
+    printf("You entered: %f",org);
     return 0;
 }
