@@ -6,8 +6,7 @@ int main(){
     int prod=1;
     for(int i=1;i<=n;i++){
         prod=prod*i;
-    
-        printf("%d",n * i = prod);
+        printf("n * i = %d", prod);
     }
 
 
