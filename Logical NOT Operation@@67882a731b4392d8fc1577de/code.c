@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//acha program hai ek baar dekho acche se because bina or operator ke not satisfied
 int main(){
     int n;
     scanf("%d",&n);
