@@ -1,16 +1,11 @@
 #include <stdio.h>
-int main(){
+int main(
     int n;
     scanf("%d",&n);
-    if(n%2==0){
-        printf(
-            "EVEN"
-        );
-
-
-    }
-    else{
+    if(n%2==1){
         printf("Odd");
     }
-    return 0;
-}
+    else{
+        printf("Even");
+    }
+)
