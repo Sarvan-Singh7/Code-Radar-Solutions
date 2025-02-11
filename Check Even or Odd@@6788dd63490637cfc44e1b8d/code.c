@@ -2,7 +2,7 @@
 int main(
     int n;
     scanf("%d",&n);
-    if(n%2==1){
+    if(n%2==0){
         printf("Odd");
     }
     else{
