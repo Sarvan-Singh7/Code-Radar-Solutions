@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//yaad rkhna ki char mein ayega +-*/
 int main(){
     int a,b;
     char c;
