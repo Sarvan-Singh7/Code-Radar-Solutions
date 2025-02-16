@@ -6,6 +6,6 @@ int main(){
         printf("Vowel");
     }
 
-    else printf("Constant");
+    else printf("Consonant");
     return 0;
 }
