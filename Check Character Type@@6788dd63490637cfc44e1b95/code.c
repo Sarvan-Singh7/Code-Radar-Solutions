@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main(){/////////////////////////////////good code try again;;;;;;;;;;;;;;;;;;;
     char as;
     scanf("%c",&as);
     if(('a'<=as && 'z'>=as) ||  'A'<=as && 'Z'>=as){
