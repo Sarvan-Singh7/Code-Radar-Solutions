@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main(){
-    int N;
-    scanf("%d",&N);
-    int prod=1;
-    for(int i=1;i<=N;i++){
-        prod=prod*i;
-        printf("n x i = %d\n", prod);
-    }
+   int n; 
+   scanf("%d",&n);
+   a=n;
+   for(int i=1;i<=n;i++){
+    printf("%d x %d = %d",n,i,a);
+    a=a+n;
+   }
 
 
     return 0;
