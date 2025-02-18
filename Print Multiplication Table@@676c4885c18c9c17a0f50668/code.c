@@ -5,7 +5,7 @@ int main(){
     int prod=1;
     for(int i=1;i<=N;i++){
         prod=prod*i;
-        printf("n x i = %d", prod);
+        printf("n x i = %d\n", prod);
     }
 
 
