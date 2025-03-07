@@ -6,8 +6,8 @@ int main(){
         for(int j=1;j<=n;j++){
             if(i==1 || j==n  || j==n || j==1){
                 printf("*");
-            } printf("\n");
+            } 
         }
-       
+       printf("\n");
     }
 }
