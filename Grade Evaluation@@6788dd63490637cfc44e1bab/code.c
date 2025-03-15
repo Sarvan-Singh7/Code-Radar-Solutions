@@ -5,5 +5,5 @@ int main() {
     if(n==A){
         printf("Excellent");
     }
-
+return 0;
 }
