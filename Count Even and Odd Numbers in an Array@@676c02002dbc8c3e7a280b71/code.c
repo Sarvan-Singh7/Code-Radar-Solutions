@@ -9,7 +9,7 @@ int main(){
             even++;
         }
         else{
-            odd++
+            odd++;
         }
     }
     printf("%d %d",even,odd);
