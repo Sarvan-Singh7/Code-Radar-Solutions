@@ -1,9 +1,9 @@
-// void printArray(int arr[],int n){
-//     for(int i=0;i<n;i++){
-//         printf("%d",arr[i]);
-//     }
-//     return;
-// }
+void printArray(int arr[],int n){
+    for(int i=0;i<n;i++){
+        printf("%d",arr[i]);
+    }
+    return;
+}
 
 void bubleSort(int arr[],int n){
     int temp;
@@ -15,12 +15,6 @@ void bubleSort(int arr[],int n){
                 arr[j+1]= temp;
             }
         }
-    }
-    return;
-}
-void printArray(int arr[],int n){
-    for(int i=0;i<n;i++){
-        printf("%d",arr[i]);
     }
     return;
 }
