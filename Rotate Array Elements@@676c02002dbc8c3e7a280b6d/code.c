@@ -1,4 +1,4 @@
-void transpose(int *arr,int n,int si,int ei){
+void transpose(int *arr,int n,int si,int ei){// transpose 
     for(int i=si,j=ei;i<=j;i++,j--){
         int temp=arr[i];
         arr[i] = arr[j];
